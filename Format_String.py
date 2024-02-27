@@ -1,0 +1,11 @@
+print("Numeros: {:.2f}".format(2.3453))
+print("{:0>3}".format(2.38))
+print("{:0<3}".format(2.38))
+print("{:,}".format(20000))
+print(f"{2.5:.2f}")
+print("Miguel say \"Hola Mundo\"")
+print("Lane 1 \nLane 2")
+print("Name \tLastName\nAna\tRuiz")
+print("ana","maria", sep=".")
+
+print("Inicio...", end=".", flush= True)
